@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby -i
+#!/usr/bin/env ruby
 
 max = 0
 total = 0

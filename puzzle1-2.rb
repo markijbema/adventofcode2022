@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby -i
+#!/usr/bin/env ruby
 
 elf = []
 total = 0
